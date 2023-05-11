@@ -1,0 +1,22 @@
+A
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link
+{
+color: blue;
+}
+A:visited
+{
+color: green;
+}
+A:hover
+{
+color: red;
+text-decoration: underline;
+}
+/*text-decoration: none; Jest to używane do dekorowania tekstu, na przykład dodanie pogrubienia.
+ text-decoration: underline; Użycie tego oznaczać będzie podkreślenie danego tekstu.
+ Oskar Koziński
+ */

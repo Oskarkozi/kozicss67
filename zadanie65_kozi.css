@@ -1,0 +1,46 @@
+body{
+    background-color: silver;
+}
+p{
+    font-size:11pt;}
+p:first-child{
+        font-size:7mm;font-style:italic;
+    }
+div#pierwszy_kozinski{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-style: solid;
+    border-color: rgb(10, 9, 59);
+    border-width: 5px;
+    width: 760pt;
+    }
+div#drugi_kozinski{
+    background-color: pink;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    width: 960pt;
+    }
+div#trzeci_kozinski{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: greenyellow;
+    border-top-right-radius: 13px;
+    border-top-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-style: solid;
+    border-color: violet;
+    border-width: 7px;
+    width: 1160pt;
+    
+    }

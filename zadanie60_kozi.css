@@ -1,0 +1,9 @@
+div#blok1_kozinski {background-color: 00ff00;width:615px;}
+div#blok2_kozinski {background-color: 00ff00;width:615px;}
+div#blok3_kozinski {background-color: 00ff00;width:615px;}
+div#blok1_kozinski:hover {background-color: FF0000;font-size:18mm;}
+div#blok2_kozinski:hover {background-color: FF8000;font-size:18mm;}
+div#blok3_kozinski:hover {background-color: FFFF33;font-size:18mm;}
+/*hover; selektor hover powoduje zaznaczenie elementu strony gdy najedzie się na niego myszką
+ Oskar Koziński
+ */

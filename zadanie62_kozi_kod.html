@@ -1,0 +1,61 @@
+<html>
+<head>
+</head>
+<body>
+<textarea cols="50" rows="37">
+<DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="zadanie62_kozi.css">
+</head>
+<body>
+<p>
+tekst bez lang<br>
+<u>Uwaga1:</u><br>
+Język CSS dopuszcza stosowanie zarówno dużych jak i małych liter.<br>
+Poprawnymi nazwami atrybutu są background, backGround oraz BACKground.<br>
+<u>Uwaga2:</u><br>
+Wstawanie białych znaków (spacje, tabulacje, znaki nowej linii) w arkuszu CSS nie ma wpływu na jego działanie.
+</p>
+
+<p lang="pl">
+Polski lang.<br>
+<u>CSS</u> Kaskadowe Arkusze Stylów (z ang. Cascading Style Sheets) jest to specjalny <br>
+język stworzony w celu elastycznego zarządzania sposobem formatowania<br>
+elementów znajdujących się na stronach WWW.
+</p>
+
+<p lang="en">
+angielski lang<br>
+<u>CSS - Cascading Style Sheets</u> is a special langage created to flexibly <br> 
+manage the formating (apperance) of elements on wen pages
+</p>
+</body>
+</html>
+body 
+{
+	background-color: silver;
+}
+
+p
+{
+	font-size: 5mm;
+	color: rgb(255, 213, 0)
+}
+
+p:lang(pl)
+{
+	font-size: 6mm;
+	color: rgb(0, 182, 182)
+}
+
+p:lang(en)
+{
+	font-size: 10mm;
+	color: rgb(39, 85, 255)
+}
+</textarea>
+</body>
+</html>
+<!-- Koziński Oskar 1P -->

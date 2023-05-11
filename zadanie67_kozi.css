@@ -1,0 +1,76 @@
+p#jeden:first-letter {
+	
+	font-size:116pt;
+	color:rgb(180, 156, 18)
+	
+	
+	
+	
+}
+
+p#dwa:first-letter {
+	
+	font-size:116pt;
+	color: rgb(136, 135, 133);
+	
+	
+	
+}
+
+p#jeden {
+	
+font-size:20pt;	
+color:rgb(38, 56, 160)
+	
+	
+	
+}
+
+
+p#dwa{
+	
+	
+	font-size:21pt;
+	color:rgb(35, 51, 143);
+	
+	
+}
+
+h1 {
+	
+	color: rgb(100, 0,180);
+	
+}
+
+
+h1:first-letter {
+	
+	color:rgb(170,170,170);
+	font-size:120pt;
+	
+	
+}
+
+
+p#trzy {
+	
+	color:rgb(0,0,230);
+	font-size:20pt;
+	
+	
+	
+}
+
+p#trzy:first-line {
+	
+	color:rgb(255,0,0);
+	
+	
+	
+}
+
+p#trzy:first-letter {
+	
+	font-size:120pt;
+	
+}
